@@ -1,0 +1,13 @@
+1.	Easy: Create a Repository
+•	Create a new repository on GitHub.
+•	Clone the repository to your local machine.
+•	Add a file, commit the change, and push it to GitHub.
+2.	Easy: Branching
+•	Create a new branch in your repository.
+•	Make changes in the new branch.
+•	Merge the branch back into the main/master branch.
+3.	Easy: Fork and Pull Request
+•	Fork a repository from another GitHub user.
+•	Make changes in your fork.
+•	Create a pull request to suggest changes to the original repository.
+
