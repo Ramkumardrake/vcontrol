@@ -1,0 +1,65 @@
+1.	Repository Initialization and Configuration:
+•	git init
+•	git config
+2.	Cloning and Remote Repositories:
+•	git clone
+•	git remote
+•	git fetch
+•	git pull
+•	git push
+•	git remote add
+•	git remote show
+•	git remote rename
+3.	Basic File Operations:
+•	git add
+•	git rm
+•	git mv
+4.	Committing Changes:
+•	git commit
+•	git commit --amend
+•	git commit -m
+5.	Branching and Merging:
+•	git branch
+•	git checkout
+•	git merge
+•	git branch -d
+•	git push --delete
+6.	Viewing Changes and History:
+•	git status
+•	git log
+•	git diff
+•	git show
+7.	Tagging:
+•	git tag
+8.	Undoing Changes:
+•	git revert
+•	git reset
+•	git reflog
+9.	Stashing:
+•	git stash
+•	git stash apply
+10.	Fetching and Pulling:
+•	git fetch
+•	git pull
+11.	Configuring User Information:
+•	git config --global user.name
+•	git config --global user.email
+12.	Collaboration and Pull Requests:
+•	git fetch origin pull/ID/head:BRANCHNAME
+•	git request-pull
+•	git fetch upstream
+13.	Advanced History Rewriting:
+•	git rebase
+•	git cherry-pick
+•	git filter-branch
+14.	Submodules:
+•	git submodule init
+•	git submodule update
+•	git submodule add
+15.	Git Hooks:
+•	.git/hooks/ directory contains various hook scripts.
+16.	Miscellaneous:
+•	git clean
+•	git blame
+•	git bisect
+
